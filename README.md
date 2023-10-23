@@ -1,0 +1,22 @@
+8-1
+-----
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+Artemis Financial is committed to enhancing the safety and protection of their digital ecosystem, reaffirming their dedication to safeguarding the sensitive financial data and transactions of their clients. This underscores their proactive stance in the changing landscape of cybersecurity – they hired us to ensure the structural integrity and resilience of their financial service software.
+-----
+What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+I felt most comfortable detailing the reasons for specific security concerns. Realistically, all aspects of security should be considered when developing or enhancing software. However, our industry is one of consistency and priority, and it pays to know which issues deserve the most attention. Cyber-crime and other forms of exploitation are carried out by those dedicated to transforming cracks in the system into entryways. Coding securely locks them out and provides less opportunities for compromise. Secure software is important for any company’s protection, the safety of their assets of information, and by extension, their reputation.
+-----
+What about the process of working through the vulnerability assessment did you find challenging or helpful?
+Using the dependency checker for the first time proved slightly challenging, as there were system issues that prevented it from working exactly as intended on the first walkthrough of the instructions. However, it proved to be an incredibly powerful tool for the integrity of our application. While many may see a collection of minor vulnerabilities as slightly unnecessary, I wouldn’t be a developer if I wasn’t determined to have each and every flaw in my software laid out for me to observe and address as I see fit.
+-----
+How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+In the future, simulating external cyberattacks will provide a more comprehensive evaluation of any dangers associated with the outdated components, as well as expose any additional vulnerabilities present in the codebase. The majority of the reported vulnerabilities stemmed from the use of outdated components, which meant enhancing the security of the software could be achieved by updating the libraries currently integrated into the code. Regardless, all concerns should be taken into consideration.
+-----
+How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+The code was kept as organized and concise as possible, while still achieving what was necessary to protect the client from security threats. The application was constantly dependency checked to see if additional issues surfaced among the component updates and false positives.
+-----
+What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+Even once a solution was reached, I feel it is important for developers to constantly consider other approaches to solving the same issue. It keeps us agile and adaptable, but most importantly, it has the potential to highlight other imminent threats or useful security strategies. During the project, I observed ways these security principles were being applied to different forms of software to better learn how to approach security concerns. 
+-----
+Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this assignment might you want to showcase to a future employer?
+My development of a mitigation plan would speak to my ability to assess a situation and develop a plan to address it. Though actually implementing the solution is a useful and necessary skill, that part in particular is an important part of leadership and team management. In these scenarios, the solution can be slightly abstract in order to give my team room to find the solution that works most effectively. In a professional environment, it may even be useful to land on a few approaches to address each vulnerability.
